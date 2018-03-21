@@ -3,3 +3,5 @@ Is my second line in the file!!!
 add this line
 add more one line Ter 13 Mar 2018 22:46:47 -03
 add more more one line Ter 13 Mar 2018 22:54:20 -03
+more one line `date`
+more one line Ter 20 Mar 2018 22:58:41 -03
